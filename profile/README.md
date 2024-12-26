@@ -11,10 +11,6 @@ Welcome to Educlipse, the ultimate platform to master your certifications with e
 - Detailed explanations for every question.
 - Comprehensive coverage of exam objectives.
 
-### 🎯 Exam-Like Experience  
-- Simulated practice exams to mirror real test conditions.  
-- Time tracking and scoring for performance assessment.
-
 ### 🖥️ User-Friendly Design  
 - Dark theme for comfortable viewing.  
 - Responsive layout for all screen sizes—desktop, tablet, or mobile.  
