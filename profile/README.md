@@ -1,5 +1,45 @@
 ## Hi there 👋
 
+# Welcome to Educlipse 🌟
+
+Welcome to Educlipse, the ultimate platform to master your certifications with ease! Whether you're prepping for **AWS, Azure, Informatica**, or other professional certifications, we've got you covered with **affordable pricing** and **high-quality content**.
+
+---
+
+## 🚀 Features
+
+### 📚 Diverse Practice Sets  
+- Curated questions tailored to each certification.
+- Detailed explanations for every question.
+- Comprehensive coverage of exam objectives.
+
+### 🎯 Exam-Like Experience  
+- Simulated practice exams to mirror real test conditions.  
+- Time tracking and scoring for performance assessment.
+
+### 🖥️ User-Friendly Design  
+- Dark theme for comfortable viewing.  
+- Responsive layout for all screen sizes—desktop, tablet, or mobile.  
+- Intuitive navigation to focus on what matters: **your learning**.
+
+### 💸 Affordable Pricing  
+- Premium quality without the premium price tag.  
+- Accessible for students and professionals alike.
+
+### 🧙 Wizard System (Gamification)  
+- Earn badges like **Spellcaster, Elementalist, High Sage** as you progress.  
+- Level up your skills and unlock achievements!
+
+---
+
+## 🌐 Technology Stack  
+Built with the latest and greatest:  
+- **Frontend:** Next.js, Tailwind CSS  
+- **Backend:** MongoDB, Prisma  
+- **Authentication:** Clerk  
+- **Payment Integration:** Razorpay  
+
+---
 <!--
 
 **Here are some ideas to get you started:**
