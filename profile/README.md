@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Welcome to Educlipse 🌟
 
 Welcome to Educlipse, the ultimate platform to master your certifications with ease! Whether you're prepping for **AWS, Azure, Informatica**, or other professional certifications, we've got you covered with **affordable pricing** and **high-quality content**.
