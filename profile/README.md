@@ -24,6 +24,11 @@ Welcome to Educlipse, the ultimate platform to master your certifications with e
 - Earn badges like **Spellcaster, Elementalist, High Sage** as you progress.  
 - Level up your skills and unlock achievements!
 
+- ### 🌟 Earn & Use Points!  
+- Earn **Edu Points** for every action you take—completing exams, answering questions, or even liking queslity Questions/Answer.  
+- Use these points as real money during your next transaction.  
+- Track your accumulated points in the **Edu Points** section of your profile.  
+
 ---
 
 ## 🌐 Technology Stack  
