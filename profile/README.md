@@ -39,6 +39,7 @@ Built with the latest and greatest:
 - **Payment Integration:** Razorpay  
 
 ---
+
 <!--
 
 **Here are some ideas to get you started:**
